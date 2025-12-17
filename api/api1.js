@@ -3,6 +3,14 @@
 // نسخه های جدید js6 , ecma یادت نره 
 // از هر چیز ب درد بخوری تو dom , bom , event و همه چی 
 // bind کردن 
+// callback چیه 
+// DOM Manipulation
+// Event Handling و Delegation
+// Iterables & Iterators
+// spread 
+// Rest , paginate
+// ES6+ Features , Memory Management
+// bubbling چیه 
 // sync , async , map , Map 
 // داینامیک کردن 
 // شکافتن دام به eventlistener و مثلش 
@@ -11,6 +19,7 @@
 // شکافتن api 
 // شکافتن event 
 // مقایسه متدهای هر چیزی 
+// هر روز ی تسک از تابع یا ارایه یا آبجکت بزن بذار بیشتر بشناسیش ، ی دونه هم جدا از api 
 
 //************************************************************************/
 
@@ -31,3 +40,8 @@
 // بعدش roamap 
 
 // بعدش react 
+
+// برای html نسخه اخر برنامه ریزی کن 
+// برای بهترش شدن css برنامه ریزی کن 
+// برای مسلط شدن به git برنامه ریزی کن 
+// ویدیو ببین jonas فقط 
